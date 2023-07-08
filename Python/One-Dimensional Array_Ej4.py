@@ -1,3 +1,5 @@
+# Practica 3 - One-Dimensional Array- Ejercicio 04
+
 def IncializarArreglo(arreglo, tam):
     for i in range(0, tam):
         arreglo[i] = 0
