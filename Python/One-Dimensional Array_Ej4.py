@@ -10,11 +10,7 @@ def MostrarArreglo(arreglo, tam):
     for i in range (0, tam):
         if arreglo[i] != '*':
             print(arreglo[i])
-
-
-
-
-
+            print("Se ingreso en la posicion: ", i)
 
 
 # Programa Principal
