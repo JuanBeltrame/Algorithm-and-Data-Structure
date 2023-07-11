@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Draft for Practice/1.0.0": {
+        "runtime": {
+          "Draft for Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Draft for Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

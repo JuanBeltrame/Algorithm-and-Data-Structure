@@ -1,0 +1,15 @@
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\bin\Debug\net7.0\Draft for Practice.exe
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\bin\Debug\net7.0\Draft for Practice.deps.json
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\bin\Debug\net7.0\Draft for Practice.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\bin\Debug\net7.0\Draft for Practice.dll
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\bin\Debug\net7.0\Draft for Practice.pdb
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.dll
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\refint\Draft for Practice.dll
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.pdb
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\Draft for Practice.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub\Algorithm-and-Data-Structure\C#\Draft for Practice\obj\Debug\net7.0\ref\Draft for Practice.dll
