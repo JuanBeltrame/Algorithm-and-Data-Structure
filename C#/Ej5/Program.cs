@@ -10,7 +10,6 @@
             arreglo[i] = 0;
         }
     }
-
     private static void CargarArreglo(int[] arreglo, int tamanoDelArray){
         for (int i = 0; i < tamanoDelArray ; i++){
             Console.WriteLine("Ingrese el valor para la posicion {0}", i);
@@ -18,13 +17,12 @@
         }
     }
     private static int[] SumarArreglos(int[] arreglo1, int[] arreglo2, int[] arreglo3, int tamanoDelArray){
-        for (int i = 0; i < tamanoDelArray -1 ; i++){
+        for (int i = 0; i < tamanoDelArray ; i++){
             arreglo3[i] = arreglo1[i] + arreglo2[i];
         }
 
         return arreglo3;
     }
-
     private static void MostrarArreglos(int[] arreglo1, int[] arreglo2, int[] arreglo3, int tamanoDelArray){
         for (int i =0 ; i < tamanoDelArray ; i++){
             Console.WriteLine("Arreglo A:" + arreglo1[i]);
@@ -32,7 +30,6 @@
         }
         Console.WriteLine(arreglo3);
     }
-
     private static void MostrarUnSoloArreglo(int[] unicoArreglo, int tamanoDelArray){
         for (int i = 0; i < tamanoDelArray ; i++){
             Console.WriteLine($"Arreglo: {unicoArreglo[i]}");
