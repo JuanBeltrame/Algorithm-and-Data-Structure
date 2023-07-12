@@ -38,17 +38,17 @@
     private static void Main(string[] args)
     {
         InicializarArreglo(a, 3);
-        Console.ForegroundColor = ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
         Console.WriteLine("INGRESE LOS VALORES DEL ARREGLO A");
         Console.ResetColor();
         CargarArreglo(a, 3);
 
-        Console.ForegroundColor = ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
         Console.WriteLine("INGRESE LOS VALORES DEL ARREGLO B");
         Console.ResetColor();
         CargarArreglo(b, 3);
 
-        Console.ForegroundColor = ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
         Console.WriteLine("SUMA DE LOS ARREGLOS");
         Console.ResetColor();
         sumaArr = SumarArreglos(a, b, c, 3);
