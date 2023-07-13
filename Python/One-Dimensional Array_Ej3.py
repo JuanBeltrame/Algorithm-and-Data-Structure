@@ -11,14 +11,14 @@ VAR
 """
 def Cargar (l, TAM):
     global T
-    for i in range (0, TAM):
+    for i in range(0, TAM):
         l[i] = int(input(str(i+1) + ". Ingreso: "))
 
 
 def SumaPos(x, TAM):
     global T
     acum = 0
-    for i in range (0, TAM):
+    for i in range(0, TAM):
         if x[i] > 0 :
             acum = acum + x[i]
     return acum
